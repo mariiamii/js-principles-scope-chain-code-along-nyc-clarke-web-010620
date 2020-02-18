@@ -5,23 +5,23 @@ function upperCaseCustomerName(){
   customerName = customerName.toUpperCase();
 }
 
-function setBestCustomer(){
-  bestCustomer = 'not bob';
-}
+// function setBestCustomer(){
+//   bestCustomer = 'not bob';
+// }
 
-function overWriteBestCustomer(){
-  bestCustomer = 'maybe bob';
-}
+// function overWriteBestCustomer(){
+//   bestCustomer = 'maybe bob';
+// }
 
-function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'billy';
-}
+// function changeLeastFavoriteCustomer(){
+//   leastFavoriteCustomer = 'billy';
+// }
 
-function reassignLeastFavorite(){
-  leastFavoriteCustomer = 'bob';
-}
+// function reassignLeastFavorite(){
+//   leastFavoriteCustomer = 'bob';
+// }
 
-function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bob';
-    let favoriteCustomer = 'billy';
-}
+// function attemptTwoFavoriteCustomers(){
+//     let favoriteCustomer = 'bob';
+//     let favoriteCustomer = 'billy';
+// }
