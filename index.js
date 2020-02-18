@@ -13,13 +13,13 @@ function overWriteBestCustomer(){
   bestCustomer = 'maybe bob';
 }
 
-// function changeLeastFavoriteCustomer(){
-//   leastFavoriteCustomer = 'billy';
-// }
-
-function reassignLeastFavorite(){
-  leastFavoriteCustomer = 'bob';
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = 'billy';
 }
+
+// function reassignLeastFavorite(){
+//   leastFavoriteCustomer = 'bob';
+// }
 
 // function attemptTwoFavoriteCustomers(){
 //     let favoriteCustomer = 'bob';
