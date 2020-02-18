@@ -18,7 +18,7 @@ function changeLeastFavoriteCustomer(){
 }
 
 function reassignLeastFavorite(){
-  leastFavoriteCustomer = 'bobby';
+  leastFavoriteCustomer = 'bob';
 }
 
 function attemptTwoFavoriteCustomers(){
