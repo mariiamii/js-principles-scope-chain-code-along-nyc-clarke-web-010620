@@ -17,9 +17,9 @@ function overWriteBestCustomer(){
 //   leastFavoriteCustomer = 'billy';
 // }
 
-// function reassignLeastFavorite(){
-//   leastFavoriteCustomer = 'bob';
-// }
+function reassignLeastFavorite(){
+  leastFavoriteCustomer = 'bob';
+}
 
 // function attemptTwoFavoriteCustomers(){
 //     let favoriteCustomer = 'bob';
